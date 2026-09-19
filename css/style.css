@@ -4,7 +4,7 @@ body{
     background-color: #3F401E;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.container{
+.container{ /*O width serve para definir alargura da área de conteúdo de um elemento. Margin serve para criar um espaçamento na parte externa desse elemento, distanciando-o dos outros elementos ao redor*/
     background-color: #fff;
     width: 960px;
     margin: auto;
@@ -22,7 +22,7 @@ a:hover{
     background-color: #3F401E;
 }
 a{
-    text-decoration: none;
+    text-decoration: none; /*text-decoration serve para adicionar ou remover linhas decorativas em um texto*/
 }
 img{
     width: 960px;
